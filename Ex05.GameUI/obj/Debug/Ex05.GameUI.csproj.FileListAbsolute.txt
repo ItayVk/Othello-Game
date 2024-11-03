@@ -1,0 +1,15 @@
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\bin\Debug\Ex05.GameUI.exe.config
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\bin\Debug\Ex05.GameUI.exe
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\bin\Debug\Ex05.GameUI.pdb
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\bin\Debug\Ex05.OtheloLogic.dll
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\bin\Debug\Ex05.OtheloLogic.pdb
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\bin\Debug\Ex05.OtheloLogic.dll.config
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.AssemblyReference.cache
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\obj\Debug\Ex05.GameUI.GameSettingsForm.resources
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\obj\Debug\Ex05.GameUI.OtheloGameForm.resources
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\obj\Debug\Ex05.GameUI.Properties.Resources.resources
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.GenerateResource.cache
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.CoreCompileInputs.cache
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\obj\Debug\Ex05.Gam.C42911F1.Up2Date
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\obj\Debug\Ex05.GameUI.exe
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.GameUI\obj\Debug\Ex05.GameUI.pdb

@@ -1,0 +1,7 @@
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.OtheloLogic\bin\Debug\Ex05.OtheloLogic.dll.config
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.OtheloLogic\bin\Debug\Ex05.OtheloLogic.dll
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.OtheloLogic\bin\Debug\Ex05.OtheloLogic.pdb
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.OtheloLogic\obj\Debug\Ex05.OtheloLogic.csproj.AssemblyReference.cache
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.OtheloLogic\obj\Debug\Ex05.OtheloLogic.csproj.CoreCompileInputs.cache
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.OtheloLogic\obj\Debug\Ex05.OtheloLogic.dll
+C:\Users\etay2\Downloads\opp in .net and c#\Exercise 5\Project check before submission\C24 Ex05 DorBergel 322271792 ItayVekselbum 211871827\Ex05.OtheloLogic\obj\Debug\Ex05.OtheloLogic.pdb
